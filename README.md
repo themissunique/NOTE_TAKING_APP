@@ -1,2 +1,2 @@
-# NOTE_TAKING_APP
-Created with CodeSandbox
+NOTEAPP
+Created by Ananya Ghosh
